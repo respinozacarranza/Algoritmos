@@ -361,6 +361,11 @@ private: System::Void PIMTA_KeyDown(System::Object^  sender, System::Windows::Fo
 				 JugadorINV= gcnew Bitmap("adukainv.png");
 				 Bala1 = gcnew Bitmap("bala1aduka.png");
 			 }
+			 if(Player->get_tipo()==11)
+			 {
+				 JugadorINV= gcnew Bitmap("adukainv.png");
+				 Bala1 = gcnew Bitmap("bala1aduka.png");
+			 }
 
 		 }
 

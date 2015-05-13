@@ -23,6 +23,7 @@ Carro::Carro(double x, double y, int tipo, double w, double h,double wFlechaAngu
 	XPixelColi=YPixelColi=0;	
 	anguloDisparo=0.0;
 	/*x0=ValorAbsoluto( (vecPosis[1].first+vecPosis[2].first)/2);
+
 	y0=ValorAbsoluto( (vecPosis[1].second+vecPosis[2].second)/2);*/
 	
 	
