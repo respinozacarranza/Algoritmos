@@ -1,5 +1,28 @@
-﻿Build started 5/13/2015 6:32:17 PM.
+﻿Build started 5/13/2015 7:16:03 PM.
+     1>Project "C:\Users\Renato\Documents\Algoritmos-Avanzados\Project2\Project2\Project2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Bala.cpp
+         Bala.cpp
+     1>Bala.cpp(28): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Bala.cpp(31): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Bala.cpp(105): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Bala.cpp(140): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Bala.cpp(192): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Bala.cpp(245): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+     1>Bala.cpp(249): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+     1>Bala.cpp(261): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+     1>Bala.cpp(265): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Renato\Documents\Algoritmos-Avanzados\Project2\Debug\Project2.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Project2.MyForm.resources /ASSEMBLYRESOURCE:Debug\Project2.PIMTA.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Renato\Documents\Algoritmos-Avanzados\Project2\Debug\Project2.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Bala.obj
+         Debug\Carro.obj
+         Debug\Juego.obj
+         Debug\MyForm.obj
+         Debug\PIMTA.obj
+         Debug\VecCarro.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Project2.vcxproj -> C:\Users\Renato\Documents\Algoritmos-Avanzados\Project2\Debug\Project2.exe
+     1>Done Building Project "C:\Users\Renato\Documents\Algoritmos-Avanzados\Project2\Project2\Project2.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.02
+Time Elapsed 00:00:03.55
